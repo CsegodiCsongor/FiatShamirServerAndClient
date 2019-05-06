@@ -1,0 +1,16 @@
+C:\Users\win\Source\Repos\FiatShamirServer\FiatShamirServer\bin\Debug\FiatShamirServer.exe.config
+C:\Users\win\Source\Repos\FiatShamirServer\FiatShamirServer\bin\Debug\FiatShamirServer.exe
+C:\Users\win\Source\Repos\FiatShamirServer\FiatShamirServer\bin\Debug\FiatShamirServer.pdb
+C:\Users\win\Source\Repos\FiatShamirServer\FiatShamirServer\obj\Debug\FiatShamirServer.csprojAssemblyReference.cache
+C:\Users\win\Source\Repos\FiatShamirServer\FiatShamirServer\obj\Debug\FiatShamirServer.csproj.CoreCompileInputs.cache
+C:\Users\win\Source\Repos\FiatShamirServer\FiatShamirServer\obj\Debug\FiatShamirServer.exe
+C:\Users\win\Source\Repos\FiatShamirServer\FiatShamirServer\obj\Debug\FiatShamirServer.pdb
+C:\Users\win\Documents\Visual Studio 2017\Projects\FiatShamirServer\FiatShamirServer\bin\Debug\FiatShamirServer.exe.config
+C:\Users\win\Documents\Visual Studio 2017\Projects\FiatShamirServer\FiatShamirServer\bin\Debug\FiatShamirServer.exe
+C:\Users\win\Documents\Visual Studio 2017\Projects\FiatShamirServer\FiatShamirServer\bin\Debug\FiatShamirServer.pdb
+C:\Users\win\Documents\Visual Studio 2017\Projects\FiatShamirServer\FiatShamirServer\obj\Debug\FiatShamirServer.csprojAssemblyReference.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\FiatShamirServer\FiatShamirServer\obj\Debug\FiatShamirServer.csproj.CoreCompileInputs.cache
+C:\Users\win\Documents\Visual Studio 2017\Projects\FiatShamirServer\FiatShamirServer\obj\Debug\FiatShamirServer.exe
+C:\Users\win\Documents\Visual Studio 2017\Projects\FiatShamirServer\FiatShamirServer\obj\Debug\FiatShamirServer.pdb
+C:\Users\win\Documents\Visual Studio 2017\Projects\FiatShamirServer\FiatShamirServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\win\Documents\Visual Studio 2017\Projects\FiatShamirServer\FiatShamirServer\obj\Debug\FiatShamirServer.csproj.CopyComplete
